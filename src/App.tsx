@@ -16,7 +16,7 @@ const posts: PostType[] = [
     content: [
       { type: 'paragraph', content: "Fala galeraa 👋" },
       { type: 'paragraph', content: "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz de React, curso da Rocketseat. O nome do projeto é Iginite 🚀" },
-      { type: 'link', content: '👉 rafaelafae/01-fundamentals-reactjs', link: 'https://github.com/rafaelafae/01-fundamentals-reactjs' },
+      { type: 'link', content: '👉 rafaelafae/01-fundamentals-reactjs', link: 'https://github.com/rafaelafae/01-fundamentos-reactjs-ts' },
     ],
     publishedAt: new Date('2025-08-01 18:30:00')
   },

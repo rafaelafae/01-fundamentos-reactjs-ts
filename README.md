@@ -22,4 +22,3 @@ Durante o desenvolvimento, foram abordados os seguintes tópicos:
 - [Vite](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
-
